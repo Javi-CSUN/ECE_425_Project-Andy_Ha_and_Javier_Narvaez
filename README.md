@@ -43,7 +43,7 @@ The primary goal was to design a wireless RC vehicle using embedded peripherals 
 ---
 
 ## Pin Configuration
-![Pin Diagram](images/pinout.PNG)
+![Pin Diagram](images/Pinout.PNG)
 
 ---
 
