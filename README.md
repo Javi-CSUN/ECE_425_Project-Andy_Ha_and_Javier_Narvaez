@@ -7,7 +7,7 @@ This project implements a Bluetooth-controlled RC car using the Texas Instrument
 ---
 
 ## Functional Block Diagram
-[Functional Block Diagram](images/block_diagram.PNG)
+![Functional Block Diagram](images/block_diagram.png)
 
 This diagram illustrates the interaction between the TM4C123G LaunchPad, Bluetooth module, PWM-controlled motor and servo, power regulation, and user input device.
 
@@ -38,12 +38,12 @@ The primary goal was to design a wireless RC vehicle using embedded peripherals 
 ---
 
 ## Components Used
-[List of Components](images/components.PNG)
+![List of Components](images/components.png)
 
 ---
 
 ## Pin Configuration
-[Pin Diagram](images/pinout.PNG)
+![Pin Diagram](images/pinout.png)
 
 ---
 
